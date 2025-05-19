@@ -1,0 +1,585 @@
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\appsettings.Development.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\appsettings.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.staticwebassets.runtime.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.exe
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.deps.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.runtimeconfig.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.pdb
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.AssemblyInfoInputs.cache
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.AssemblyInfo.cs
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.csproj.CoreCompileInputs.cache
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.RazorAssemblyInfo.cache
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.RazorAssemblyInfo.cs
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.sourcelink.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.build.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.development.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.MvcExercise.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcExercise.props
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcExercise.props
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcExercise.props
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\bundle\MvcExercise.styles.css
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\projectbundle\MvcExercise.bundle.scp.css
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\refint\MvcExercise.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.pdb
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.genruntimeconfig.cache
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\ref\MvcExercise.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.csproj.AssemblyReference.cache
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\AutoMapper.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Azure.Core.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Azure.Identity.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Humanizer.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.CodeDom.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.Net-core-Bootcamp-batch-09\Chapter 8\Students\Priyanka\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExerc.AE9F24CB.Up2Date
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\appsettings.Development.json
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\appsettings.json
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.staticwebassets.runtime.json
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.exe
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.deps.json
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.runtimeconfig.json
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.pdb
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\AutoMapper.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Azure.Core.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Azure.Identity.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Humanizer.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.CodeDom.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.csproj.AssemblyReference.cache
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.AssemblyInfoInputs.cache
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.AssemblyInfo.cs
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.csproj.CoreCompileInputs.cache
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.MvcApplicationPartsAssemblyInfo.cache
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.RazorAssemblyInfo.cache
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.RazorAssemblyInfo.cs
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.build.json
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.development.json
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.MvcExercise.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcExercise.props
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcExercise.props
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcExercise.props
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\bundle\MvcExercise.styles.css
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\projectbundle\MvcExercise.bundle.scp.css
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExerc.AE9F24CB.Up2Date
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.dll
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\refint\MvcExercise.dll
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.pdb
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.genruntimeconfig.cache
+D:\MvcExercise\MvcExercise\obj\Debug\net8.0\ref\MvcExercise.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\appsettings.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.staticwebassets.runtime.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.staticwebassets.endpoints.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.exe
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.deps.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.runtimeconfig.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.pdb
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Humanizer.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.csproj.AssemblyReference.cache
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.AssemblyInfoInputs.cache
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.AssemblyInfo.cs
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.csproj.CoreCompileInputs.cache
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.RazorAssemblyInfo.cache
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.RazorAssemblyInfo.cs
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\bundle\MvcExercise.styles.css
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\projectbundle\MvcExercise.bundle.scp.css
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.MvcExercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.MvcExercise.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcExercise.props
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcExercise.props
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcExercise.props
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExerc.AE9F24CB.Up2Date
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\refint\MvcExercise.dll
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.pdb
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.genruntimeconfig.cache
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\ref\MvcExercise.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\appsettings.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.staticwebassets.endpoints.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.staticwebassets.runtime.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.exe
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.deps.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.runtimeconfig.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\MvcExercise.pdb
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Humanizer.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.csproj.AssemblyReference.cache
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.AssemblyInfoInputs.cache
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.AssemblyInfo.cs
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.csproj.CoreCompileInputs.cache
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.RazorAssemblyInfo.cache
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.RazorAssemblyInfo.cs
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\bundle\MvcExercise.styles.css
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\scopedcss\projectbundle\MvcExercise.bundle.scp.css
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.MvcExercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.MvcExercise.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcExercise.props
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcExercise.props
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcExercise.props
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExerc.AE9F24CB.Up2Date
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\refint\MvcExercise.dll
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.pdb
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\MvcExercise.genruntimeconfig.cache
+C:\Users\unnni\OneDrive\Desktop\MvcExercise\MvcExercise\MvcExercise\obj\Debug\net8.0\ref\MvcExercise.dll

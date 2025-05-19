@@ -1,0 +1,2 @@
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\wwwroot\css\site.css
+C:\Users\unnni\Desktop\MvcExercise\MvcExercise\MvcExercise\wwwroot\js\site.js
